@@ -81,7 +81,7 @@ The project demonstrates how machine learning can be used to predict heart disea
 
 ## Google Colab Notebook
 
-[Open Project in Google Colab](YOUR_COLAB_LINK)
+[Open Project in Google Colab](https://colab.research.google.com/drive/1JW5caUZe1KwlDmVGHppdsvluq4sGcdb0?usp=sharing)
 
 ## Author
 
